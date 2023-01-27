@@ -36,5 +36,4 @@ def switch(action):
 switch(input("Choose an Action \n 0 = List Games \n 1 = Add Game \n"))
 
 
-#asdfasdf;lkj
 
