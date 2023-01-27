@@ -1,0 +1,17 @@
+{
+    "Games": {
+        "PC": [
+            "test01",
+            "test02",
+            "test"
+        ],
+        "PlayStation": [
+            "test03",
+            "test04"
+        ],
+        "Nintendo": [
+            "test05",
+            "test06"
+        ]
+    }
+}
