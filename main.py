@@ -1,7 +1,7 @@
 import json
 import random
 
-#Action 0
+#Action 0 asdf
 with open("newList.json") as f:
   data = json.load(f)
 
@@ -35,4 +35,6 @@ def switch(action):
         
 switch(input("Choose an Action \n 0 = List Games \n 1 = Add Game \n"))
 
+
+#testing the remote 
 
