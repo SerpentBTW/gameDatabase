@@ -4,7 +4,7 @@ import random
 #Action 0
 with open("newList.json") as f:
   data = json.load(f)
-
+#test command
 #Action 1
 def write_json():
     with open('newList.json','r+') as file:
